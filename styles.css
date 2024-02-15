@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.recipe {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.recipe img {
+    width: 100%;
+    height: auto;
+}
+
+h1, h2 {
+    color: #444;
+}
+
+ul, ol {
+    margin-bottom: 20px;
+}
